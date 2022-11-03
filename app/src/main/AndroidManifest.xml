@@ -13,7 +13,7 @@
         android:theme="@style/Theme.AplikasiMobile1"
         tools:targetApi="31">
         <activity
-            android:name=".ColumnRows"
+            android:name=".MotivationActivity"
             android:exported="true"
             android:label="@string/app_name"
             android:theme="@style/Theme.AplikasiMobile1">
